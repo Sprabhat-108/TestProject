@@ -20,7 +20,7 @@ public class CheckDuplicate {
 			{
 				System.out.println("Dulplicate Request as per developer");
 				
-				System.out.println("Dulplicate Request as per developer1");
+				System.out.println("Dulplicate Request as per developer2");
 				isExit = true;
 			}
 		}
