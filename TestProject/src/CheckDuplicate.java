@@ -19,6 +19,8 @@ public class CheckDuplicate {
 			if(l_timeDifference <= 15000) 
 			{
 				System.out.println("Dulplicate Request as per developer");
+				
+				System.out.println("Dulplicate Request as per developer2");
 				isExit = true;
 			}
 		}
